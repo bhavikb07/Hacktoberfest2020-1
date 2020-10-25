@@ -1,3 +1,4 @@
-title: "{{ replace .Name "Bhavik" " " | Programmer }}"
-date: {{ .Date }}
-draft: true
+name: Bhavik Bothra
+institution: "USICT"
+quote: "Miles to code before I sleep"
+github: bhavikb07
